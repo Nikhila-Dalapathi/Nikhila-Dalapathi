@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhila-Dalapathi
 - 👀 I’m interested in Exploring Places.
-- 🌱 I’m currently learning serviceNow
+- 🌱 I’m currently learning serviceNow..
 - 💞️ I’m looking to collaborate on Java..
 - 📫 How to reach me nikhiladalapathi09@gmail.com
 - 😄 Pronouns: She/Her
